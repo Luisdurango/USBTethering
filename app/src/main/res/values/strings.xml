@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USBTethering</string>
+    <string name="tethering_button">Tethering Button</string>
+</resources>
